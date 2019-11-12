@@ -29,7 +29,7 @@ El desarrollo de aplicaciones y la provisión de servicios basados en Código Ab
 
 Resumen
 -------
-Cuban Opensource es una lista  de proyectos de código abierto recolectada mediante los aportes de la comunidad que se ha ido difundiendo mediante el boca a boca y el trabajo de comunicación via correo electrónico con direcciones obtenidas mediante el scrapping de diversos sitios repositorios de software de código abierto. El objetivo es poder conocer quién está desarrollando qué en Cuba así como de unir a los desarrolladores cubanos en un espacio común. La lista está alojada en https://github.com/cuban-opensourcers/cuban-opensource. 
+Cuban Opensource es una lista  de proyectos de código abierto recolectada mediante los aportes de la comunidad. El proyecto se ha difundido mediante el boca a boca y el trabajo de comunicación via correo electrónico, utilizando direcciones obtenidas mediante el scrapping de información pública en repositorios de código abierto. El objetivo es poder conocer quién está desarrollando qué en Cuba así como de unir a los desarrolladores cubanos en un espacio común. La lista está alojada en https://github.com/cuban-opensourcers/cuban-opensource. 
 
 **Palabras claves:** lista, cuba, código abierto, desarrolladores, Github
 
