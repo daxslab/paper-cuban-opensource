@@ -12,47 +12,47 @@ Cuban Opensource es una lista  de proyectos de código abierto recolectada media
 
 Abstract
 --------
-Cuban Opensource is a Github repo listing Cuban opensource projects. The list is created by the contribution of the Cuban developers and promoted my word of mouth and email marketing campaing with data recolleted with web scrapping techniques. The target is to know who is developing what and to create a place where the Cuban developers can share a common space. The list is hosted at https://github.com/cuban-opensourcers/cuban-opensource.
+Cuban Opensource is a Github repository listing Cuban opensource projects. The list is created by Cuban developers contributions, and promoted by word of mouth and email marketing campaing with data colleted with web scrapping techniques. The objective is to know who is developing what, and to create a place where Cuban developers can share a common space. The list is hosted at https://github.com/cuban-opensourcers/cuban-opensource.
 
 **Keywords:** list, Cuba, opensource, developers, Github
 
 Introducción
 ------------
-Es innegable de que en Cuba se desarrolla software y alguno de este es de código abierto y/o libre. Incluso, es posible encontrar cubanos trabajando en proyectos en extremo populares a nivel internacional. Sin embargo, es muy difícil encontrar un catálogo con esta información:
+Es innegable de que en Cuba se desarrolla software y parte de este es de código abierto y/o libre. Incluso, es posible encontrar cubanos trabajando en proyectos muy populares a nivel internacional. Sin embargo, es muy difícil encontrar un catálogo con esta información:
 
-- ¿Qué se ha desarrollado?
-- ¿Quien está trabajando en...?
+-¿Qué se ha desarrollado?
+-¿Quién está trabajando en...?
 
-En el 2013 ya se había tenido una experiencia similar con el anuncio de REPOGUTL, “una alternativa «tropical» (el mayor crimen es cruzarse de brazos y no hacer nada) al tan ansiado «sourceforge cubano», aquí los desarrolladores tendrán la oportunidad de dar a conocer sus creaciones, retroalimentarse y, lo definitorio: contribuir con soluciones a los problemas que la migración y el uso del swl impone a los usuarios cubanos” [1]. En julio del 2014, REPOGUTL contaba con más de 70 productos compartidos [2] y más información sobre este proyectos se puede consultar en el portal GUTL [3] con más de 24 publicaciones relacionadas. En determinado momento REPOGUTL dejó de ser alojado en el servidor provincial de Joven Club de Granma y finalmente en octubre de 2019 se decidió eliminar las copias que quedaban alojadas, debido a que lo que lo restante eran sólo paquetes binarios y no código fuente.
+En el 2013 ya se había tenido una experiencia similar con el anuncio de REPOGUTL, “una alternativa «tropical» (el mayor crimen es cruzarse de brazos y no hacer nada) al tan ansiado «sourceforge cubano», aquí los desarrolladores tendrán la oportunidad de dar a conocer sus creaciones, retroalimentarse y, lo definitorio: contribuir con soluciones a los problemas que la migración y el uso del swl impone a los usuarios cubanos” [1]. En julio del 2014, REPOGUTL contaba con más de 70 productos compartidos [2] y más información sobre este proyecto se puede consultar en el portal GUTL [3] con más de 24 publicaciones relacionadas. En determinado momento, REPOGUTL dejó de ser alojado en el servidor provincial de Joven Club de Granma y finalmente, en octubre de 2019 se decidió eliminar las copias que quedaban alojadas, debido a que el contenido consitía en paquetes binarios sin la presencia del código fuente.
 
-Guiados por el interés de saber ¿quién está desarrollando qué? en Cuba, se comenzó a trabajar en la compilación de la lista de software cubano de código abierto.  
+Guiados por el interés de saber quién está desarrollando qué en Cuba, se comenzó a trabajar en la compilación de la lista de software cubano de código abierto.  
 
-Tomando como referencia las awesome lists, y constituyendo estas un recurso de fácil acceso y modificación, populares, e incluso divertidas se decidió crear la lista utilizando el mismo formato: un fichero texto Markdown. Esta elección además ofrece otras ventajas:
+Tomando como referencia las _awesome lists_, y constituyendo estas un recurso de fácil acceso y modificación, populares, e incluso divertidas; se decidió crear la lista utilizando el mismo formato: un fichero texto Markdown. Esta elección además ofrece otras ventajas:
 
-- no son necesarios recursos adicionales para su mantenimiento ya que está alojada en un servicio de terceros.
-- los proyectos están tambien alojados en otros servidores evitando toda carga para el proyecto. 
+- no son necesarios recursos adicionales para su mantenimiento ya que está alojada en un servidor de terceros.
+- los proyectos están también alojados en otros servidores evitando toda carga para el proyecto. 
 
-La lista comenzó como un proyecto personal a partir de unos comentarios en Twitter [4] al respecto, partiendo de proyectos propios (de los autores) y otros que conocían habían sido desarrollado por colegas cubanos. Cuando la lista había alcanzado aproximadamente los 10 proyectos, se presentó el proyecto [5] en 2 grupos de usuarios de tecnologías libres en Telegram https://t.me/blogswlx y https://t.me/GUTLOficial cuyos usuarios en gran mayoría son cubanos. 
+La lista comenzó como un proyecto personal a partir de unos comentarios en Twitter [4] al respecto, partiendo de proyectos propios (de los autores) y otros que conocían habían sido desarrollado por colegas cubanos. Cuando la lista había alcanzado aproximadamente los 10 proyectos, se presentó el proyecto [5] en dos grupos de usuarios de tecnologías libres en Telegram https://t.me/blogswlx y https://t.me/GUTLOficial cuyos usuarios en su gran mayoría son cubanos. 
 
-El proyecto tuvo buena acogida por lo que se dedidió transformarlo en un proyecto comunitario [6] en Github bajo la organización Cuban Opensources (https://github.com/cuban-opensourcers) con lo cual se creaba un espacio mas colectivo para poder mantener la lista. Para integrarse a la organización el requisito (salvo algunas excepciones) es haber compartido algún proyecto.
+El proyecto tuvo buena acogida, por lo que se dedidió transformarlo en un proyecto comunitario [6] en GitHub bajo la organización Cuban Opensourcers (https://github.com/cuban-opensourcers) con lo cual se creaba un espacio más colectivo para poder mantener la lista. Para integrarse a la organización el requisito (salvo algunas excepciones) es haber compartido algún proyecto.
 
-Para darle una representación gráfica al proyecto se creó el logotipo mostrado en la Figure 1 consistente en el símbolo del código abierto decorado con la bandera cubana, sobre una trama de texto formado por la repetición de la palabra “opensource”.
+Para darle una representación gráfica al proyecto se creó el logotipo mostrado en la Figura 1 consistente en el símbolo del código abierto decorado con la bandera cubana, sobre una trama de texto formado por la repetición de la palabra “opensource”.
 
 La lista se redacta en idioma inglés por ser el idioma más común en los ambientes de desarrollo de software y en busca de darle mayor visiblidad a los proyectos y desarrolladores involucrados. 
 
-Se hizo necesario entonces dar a conocer la existencia de este recurso entre los potenciales interesados: desarrolladores de software cubanos. Una de las soluciones que salío en el grupo fue la de recolectar direcciones de correo electrónico públicas de desarrolladores, para lo cual se acudió al propio Github para esto.
+Se hizo necesario entonces dar a conocer la existencia de este recurso entre los potenciales interesados: desarrolladores de software cubanos. Una de las soluciones que surgió en el grupo fue la de recolectar direcciones de correo electrónico públicas de desarrolladores, para lo cual se acudió al propio GitHub con este fin.
 
-No todos lo hacen, pero algunos desarrolladores completan el campo ubicación de su perfil [7], y los que tenían el valor Cuba en el mismo, fueron encontrados por medio de el script que se muestra en la Figure 2. Como resultado se recolectaron más de 300 direcciones de correo electrónico. 
+No todos lo hacen, pero algunos desarrolladores completan el campo ubicación de su perfil [7], y los que tenían el valor Cuba en el mismo, fueron encontrados por medio del script que se muestra en la Figura 2. Como resultado se recolectaron más de 300 direcciones de correo electrónico. 
 
-Con estas direcciones de correo se elaboró otro script utlizando la biblioteoca mailproc para enviar masivamente el correo que se muestra en la Figura 2
+Con estas direcciones de correo se elaboró otro script utlizando la biblioteoca mailproc para enviar masivamente el correo que se muestra en la Figura 2.
 
-Muchos de estos correo rebotaron debido a que correspondían a ex alumnos de algunas universidades (UCI, UCLV, UO, UCF, UPR) o a ex trabajadores de entidades cubanas. Sin embargo, comenzaron a llegar las respuestas de personas que:
+Muchos de estos mensajes de correo rebotaron debido a que correspondían a ex alumnos de algunas universidades (UCI, UCLV, UO, UCF, UPR) o a ex trabajadores de entidades cubanas. Sin embargo, comenzaron a llegar las respuestas de personas que:
 
 - tenían proyectos propios para compartir
 - conocían de personas que podían tenerlos y pasaron la referencia
 - compartieron la lista a través de sus medios.
 
-Luego de 5 meses de trabajo, la lista ha crecido y en Noviembre del 2019 se tienen los siguientes resultados [8]:
+Luego de 5 meses de trabajo, la lista ha crecido y en noviembre del 2019 se tienen los siguientes resultados [8]:
 
 - Proyectos listados: 99
 - Categorías principales: 18
