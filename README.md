@@ -38,6 +38,8 @@ El proyecto tuvo buena acogida, por lo que se dedidió transformarlo en un proye
 
 Para darle una representación gráfica al proyecto se creó el logotipo mostrado en la Figura 1 consistente en el símbolo del código abierto decorado con la bandera cubana, sobre una trama de texto formado por la repetición de la palabra “opensource”.
 
+![logo](cuban-open-source.png)
+
 La lista se redacta en idioma inglés por ser el idioma más común en los ambientes de desarrollo de software y en busca de darle mayor visiblidad a los proyectos y desarrolladores involucrados. 
 
 Se hizo necesario entonces dar a conocer la existencia de este recurso entre los potenciales interesados: desarrolladores de software cubanos. Una de las soluciones que surgió en el grupo fue la de recolectar direcciones de correo electrónico públicas de desarrolladores, para lo cual se acudió al propio GitHub con este fin.
@@ -46,7 +48,9 @@ No todos lo hacen, pero algunos desarrolladores completan el campo ubicación de
 
 ![script](screenshot-54750444.jpg)
 
-Con estas direcciones de correo se elaboró otro script utlizando la biblioteoca mailproc para enviar masivamente el correo que se muestra en la Figura 2.
+Con estas direcciones de correo se elaboró otro script utlizando la biblioteoca mailproc para enviar masivamente el correo que se muestra en la Figura 3.
+
+![email](email.jpg)
 
 Muchos de estos mensajes de correo rebotaron debido a que correspondían a ex alumnos de algunas universidades (UCI, UCLV, UO, UCF, UPR) o a ex trabajadores de entidades cubanas. Sin embargo, comenzaron a llegar las respuestas de personas que:
 
@@ -60,6 +64,8 @@ Luego de 5 meses de trabajo, la lista ha crecido y en noviembre del 2019 se tien
 - Categorías principales: 18
 - Subcategorías: 13
 - Colaboradores: 37 (algunas cuentas son de organizaciones que agrupan a varias personas)
+
+![resumen](por-categoria.png)
 
 Materiales y métodos
 --------------------
