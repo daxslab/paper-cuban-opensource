@@ -20,8 +20,8 @@ Introducción
 ------------
 Es innegable de que en Cuba se desarrolla software y alguno de este es de código abierto y/o libre. Incluso, es posible encontrar cubanos trabajando en proyectos en extremo populares a nivel internacional. Sin embargo, es muy difícil encontrar un catálogo con esta información:
 
--¿Qué se ha desarrollado?
--¿Quien está trabajando en...?
+- ¿Qué se ha desarrollado?
+- ¿Quien está trabajando en...?
 
 En el 2013 ya se había tenido una experiencia similar con el anuncio de REPOGUTL, “una alternativa «tropical» (el mayor crimen es cruzarse de brazos y no hacer nada) al tan ansiado «sourceforge cubano», aquí los desarrolladores tendrán la oportunidad de dar a conocer sus creaciones, retroalimentarse y, lo definitorio: contribuir con soluciones a los problemas que la migración y el uso del swl impone a los usuarios cubanos” [1]. En julio del 2014, REPOGUTL contaba con más de 70 productos compartidos [2] y más información sobre este proyectos se puede consultar en el portal GUTL [3] con más de 24 publicaciones relacionadas. En determinado momento REPOGUTL dejó de ser alojado en el servidor provincial de Joven Club de Granma y finalmente en octubre de 2019 se decidió eliminar las copias que quedaban alojadas, debido a que lo que lo restante eran sólo paquetes binarios y no código fuente.
 
