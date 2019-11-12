@@ -44,6 +44,8 @@ Se hizo necesario entonces dar a conocer la existencia de este recurso entre los
 
 No todos lo hacen, pero algunos desarrolladores completan el campo ubicación de su perfil [7], y los que tenían el valor Cuba en el mismo, fueron encontrados por medio del script que se muestra en la Figura 2. Como resultado se recolectaron más de 300 direcciones de correo electrónico. 
 
+![script](screenshot-54750444.jpg)
+
 Con estas direcciones de correo se elaboró otro script utlizando la biblioteoca mailproc para enviar masivamente el correo que se muestra en la Figura 2.
 
 Muchos de estos mensajes de correo rebotaron debido a que correspondían a ex alumnos de algunas universidades (UCI, UCLV, UO, UCF, UPR) o a ex trabajadores de entidades cubanas. Sin embargo, comenzaron a llegar las respuestas de personas que:
