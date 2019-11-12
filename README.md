@@ -8,6 +8,14 @@ colorlinks: true
 
 # Cuban Opensource como plataforma para la divulgación del software de código abierto hecho en Cuba
 
+<center style="font-weight: bold">López L. Gabriel<sup>1</sup>, Caballero L. Carlos<sup>2</sup>, Rodríguez C. Daniel<sup>3</sup></center>
+
+<small>
+<sup>1</sup> Daxslab, Master glpz@daxslab.com<br/>
+<sup>2</sup> Daxslab, Ingeniero ccesar@daxslab.com<br/>
+<sup>3</sup> Daxslab, Ingeniero daniel@daxslab.com<br/>
+</small>
+
 Temática
 --------
 El desarrollo de aplicaciones y la provisión de servicios basados en Código Abierto.
