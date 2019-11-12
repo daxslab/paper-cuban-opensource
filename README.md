@@ -1,5 +1,10 @@
 ---
-geometry: margin=1in
+papersize: letter
+css: style.css
+margin-left: 25mm
+margin-top: 15mm
+margin-right: 15mm
+margin-bottom: 15mm
 documentclass: extarticle
 mainfont: Liberation Sans
 fontsize: 12pt
