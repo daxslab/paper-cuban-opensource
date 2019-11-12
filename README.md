@@ -1,3 +1,11 @@
+---
+geometry: margin=1in
+documentclass: extarticle
+mainfont: Liberation Sans
+fontsize: 12pt
+colorlinks: true
+---
+
 # Cuban Opensource como plataforma para la divulgación del software de código abierto echo en Cuba
 
 Temática
@@ -38,13 +46,13 @@ El proyecto tuvo buena acogida, por lo que se dedidió transformarlo en un proye
 
 Para darle una representación gráfica al proyecto se creó el logotipo mostrado en la Figura 1 consistente en el símbolo del código abierto decorado con la bandera cubana, sobre una trama de texto formado por la repetición de la palabra “opensource”.
 
-![logo](cuban-open-source.png)
+![Logo del proyecto Cuban Opensource](cuban-open-source.png)
 
 La lista se redacta en idioma inglés por ser el idioma más común en los ambientes de desarrollo de software y en busca de darle mayor visiblidad a los proyectos y desarrolladores involucrados. 
 
 Se hizo necesario entonces dar a conocer la existencia de este recurso entre los potenciales interesados: desarrolladores de software cubanos. Una de las soluciones que surgió en el grupo fue la de recolectar direcciones de correo electrónico públicas de desarrolladores, para lo cual se acudió al propio GitHub con este fin.
 
-No todos lo hacen, pero algunos desarrolladores completan el campo ubicación de su perfil [7], y los que tenían el valor Cuba en el mismo, fueron encontrados por medio del script que se muestra en la Figura 2. Como resultado se recolectaron más de 300 direcciones de correo electrónico. 
+No todos lo hacen, pero algunos desarrolladores completan el campo ubicación de su perfil [7], y los que tenían el valor Cuba en el mismo, fueron encontrados por medio del script que se muestra a continuación. Como resultado se recolectaron más de 300 direcciones de correo electrónico. 
 
 ```python
 #!/usr/bin/python3
@@ -59,9 +67,25 @@ for u in g.search_users('', location='cuba'):
         print (u.email)
 ```
 
-Con estas direcciones de correo se elaboró otro script utlizando la biblioteoca mailproc para enviar masivamente el correo que se muestra en la Figura 3.
+Con estas direcciones de correo se elaboró otro script utlizando la biblioteoca [mailproc](https://github.com/daxslab/mailproc) para enviar masivamente el siguiente correo:
 
-![email](email.jpg)
+> Hola!
+> 
+> https://github.com/cuban-opensourcers/cuban-opensource
+> 
+> Utilizamos su dirección de correo pública en Github para contactarle e invitarle a un proyecto reciente y de rápido crecimiento: una lista de proyectos de código abierto echos en Cuba o por cubanos.
+>
+> Si usted tiene o conoce de algún proyecto que califique en la descripción anterior, háganos saber de las siguientes maneras:
+>
+> - respondiendo a este correo.
+> - issue en el repositorio listado anteriormente
+> - pull request en el mismo
+>
+> Visite el enlace y verá que hay listados proyectos muy variados, desde apps hasta librerías para desarrollo.
+> 
+> Mas información y comentarios sobre esta iniciativa en https://gutl.jovenclub.cu/aplicaciones-open-source-cuba
+> 
+> Agradecemos su colaboración.
 
 Muchos de estos mensajes de correo rebotaron debido a que correspondían a ex alumnos de algunas universidades (UCI, UCLV, UO, UCF, UPR) o a ex trabajadores de entidades cubanas. Sin embargo, comenzaron a llegar las respuestas de personas que:
 
@@ -76,7 +100,7 @@ Luego de 5 meses de trabajo, la lista ha crecido y en noviembre del 2019 se tien
 - Subcategorías: 13
 - Colaboradores: 37 (algunas cuentas son de organizaciones que agrupan a varias personas)
 
-![resumen](por-categoria.png)
+![Cantidad de proyectos por categoría](por-categoria.png)
 
 Materiales y métodos
 --------------------
