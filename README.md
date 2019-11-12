@@ -5,7 +5,7 @@ margin-left: 25mm
 margin-top: 15mm
 margin-right: 15mm
 margin-bottom: 15mm
-documentclass: extarticle
+documentclass: article
 mainfont: Liberation Sans
 fontsize: 12pt
 colorlinks: true
@@ -148,9 +148,9 @@ Es necesario reconocer el trabajo de las personas u organizaciones propietarias 
  - han contribuido con proyectos a la lista
  - han contribuido con el mantenimiento de la misma
  
-aleguerra, alejandrojnm, andaniel05, apenab, ateijelo, atscub, cjamcu, codeadict, codeshard daxslab, edelvalle, etorres, fperdigon, garciaguimeras, greenled, ivangalban, jadolg, JimScope, jmbatistav, JoseVL92, ktowen, leolopez89, llamaret, lorinkoz, n3omaster, n44ru, Nenirey, nx-desktop, oneohthree, pavelmc, PhaserEditor2D, rafageist, rlazom, rogertm, sasousuke, videomorph-dev, williamamed, yceruto.
+[aleguerra](https://github.com/aleguerra), [alejandrojnm](https://github.com/alejandrojnm), [andaniel05](https://github.com/andaniel05), [apenab](https://github.com/apenab), [ateijelo](https://github.com/ateijelo), [atscub](https://github.com/atscub), [cjamcu](https://github.com/cjamcu), [codeadict](https://github.com/codeadict), [codeshard](https://github.com/codeshard), [daxslab](https://github.com/daxslab), [edelvalle](https://github.com/edelvalle), [etorres](https://github.com/etorres), [fperdigon](https://github.com/fperdigon), [garciaguimeras](https://github.com/garciaguimeras), [greenled](https://github.com/greenled), [ivangalban](https://github.com/ivangalban), [jadolg](https://github.com/jadolg), [JimScope](https://github.com/JimScope), [jmbatistav](https://github.com/jmbatistav), [JoseVL92](https://github.com/JoseVL92), [ktowen](https://github.com/ktowen), [leolopez89](https://github.com/leolopez89), [llamaret](https://github.com/llamaret), [lorinkoz](https://github.com/lorinkoz), [n3omaster](https://github.com/n3omaster), [n44ru](https://github.com/n44ru), [Nenirey](https://github.com/Nenirey), [nx-desktop](https://github.com/nx-desktop), [oneohthree](https://github.com/oneohthree), [pavelmc](https://github.com/pavelmc), [PhaserEditor2D](https://github.com/PhaserEditor2D), [rafageist](https://github.com/rafageist), [rlazom](https://github.com/rlazom), [rogertm](https://github.com/rogertm), [sasousuke](https://github.com/sasousuke), [videomorph-dev](https://github.com/videomorph-dev), [williamamed](https://github.com/williamamed), [yceruto](https://github.com/yceruto).
 
-A [@grroic](https://t.me/grroic) y [@cccaballero](https://t.me/cccaballero) que ayudaron en [SWL-X](https://blogswlx) con el scrapping. [@oneohthree](https://t.me/oneohthree) ayudó con la edición del artículo.
+A [grroic](https://t.me/grroic) y [cccaballero](https://t.me/cccaballero) que ayudaron en [SWL-X](https://blogswlx) con el scrapping. [oneohthree](https://t.me/oneohthree) ayudó con la edición del artículo, a llevarlo a texto plano y también hacerlo open source en https://github.com/daxslab/paper-cuban-opensource
 
 Referencias
 -----------
