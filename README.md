@@ -46,7 +46,18 @@ Se hizo necesario entonces dar a conocer la existencia de este recurso entre los
 
 No todos lo hacen, pero algunos desarrolladores completan el campo ubicación de su perfil [7], y los que tenían el valor Cuba en el mismo, fueron encontrados por medio del script que se muestra en la Figura 2. Como resultado se recolectaron más de 300 direcciones de correo electrónico. 
 
-![script](screenshot-54750444.jpg)
+```python
+#!/usr/bin/python3
+
+from github import Github
+
+g = Github('usuario', 'contraseña')
+
+# prints emails from Cuba
+for u in g.search_users('', location='cuba'):
+    if u.email:
+        print (u.email)
+```
 
 Con estas direcciones de correo se elaboró otro script utlizando la biblioteoca mailproc para enviar masivamente el correo que se muestra en la Figura 3.
 
