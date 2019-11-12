@@ -29,7 +29,7 @@ El desarrollo de aplicaciones y la provisión de servicios basados en Código Ab
 
 Resumen
 -------
-Cuban Opensource es una lista  de proyectos de código abierto recolectada mediante los aportes de la comunidad que se ha ido creado mediante el boca boca y el trabajo de comunicación via correo electrónico con direcciones obtenidas mediante el scrapping de diversos sitios repositorios de software de código abierto. El objetivo es poder conocer quién está desarrollando qué en Cuba así como de unir a la agrupar a los desarrolladores cubanos en un espacio común. La lista está alojada en https://github.com/cuban-opensourcers/cuban-opensource. 
+Cuban Opensource es una lista  de proyectos de código abierto recolectada mediante los aportes de la comunidad que se ha ido creado mediante el boca a boca y el trabajo de comunicación via correo electrónico con direcciones obtenidas mediante el scrapping de diversos sitios repositorios de software de código abierto. El objetivo es poder conocer quién está desarrollando qué en Cuba así como de unir a la agrupar a los desarrolladores cubanos en un espacio común. La lista está alojada en https://github.com/cuban-opensourcers/cuban-opensource. 
 
 **Palabras claves:** lista, cuba, código abierto, desarrolladores, Github
 
@@ -125,7 +125,7 @@ Materiales y métodos
 --------------------
 Github es la plataforma seleccionada para mantener el proyecto ya que es una de las más populares en la actualidad y el repositorio por defecto para algunos gestores de bibliotecas (Packagist para PHP, por ejemplo). La API de GitHub es el mecanismo utilizado para obtener información sobre los proyectos y los desarrolladores de los mismos para luego poder generar información estadística. [9]
 
-Web scrapping es el procedimiento mediante el cual, es posible obtener información desde distintos lugares en Internet,  utilizando herramientas que coleccionan los datos con los cuales se generara la información. En estos proyectos de catalogación es necesario desarrollar scrappers para encontrar información dispersa de forma rápida y automatizada, ahorrando tiempo y trabajo humano. [10]
+Web scrapping es el procedimiento mediante el cual, es posible obtener información desde distintos lugares en Internet, utilizando herramientas que coleccionan los datos con los cuales se generara la información. En estos proyectos de catalogación es necesario desarrollar scrappers para encontrar información dispersa de forma rápida y automatizada, ahorrando tiempo y trabajo humano. [10]
 
 Las _awesome lists_ son listas que los usuarios crean con nombres, enlaces y descripciones de recursos alojados en Internet y que tienen elementos en común, por ejemplo, tratar del mismo tema. Es muy común entonces encontrar el “X’s Awesome List“ como un documento donde se listarán un conjunto de enlaces categorizados de recusos relacionados con X: libros, videos, extensiones, etc. [11]
 
@@ -137,7 +137,7 @@ Conclusiones
 - Se cuenta con un espacio donde se pueden listar (en constante actualización) los proyectos de código abierto desarrollados en Cuba.
 - Los proyectos están obteniendo mayor visibilidad.
 - Se están creando vínculos entre desarrolladores de software cubanos que antes no se conocían.
-- No se cuenta aún con proyectos de ninguna institución estatal en la lista, sólo iniciativas personales o surgidas de la actividad comercial de sus autores.
+- No se cuenta aún con proyectos de ninguna institución estatal en la lista, solo iniciativas personales o surgidas de la actividad comercial de sus autores.
 - Salvo contadas excepciones, las instituciones cubanas invitadas a difundir/compartir este proyecto no lo han hecho a pesar de que se les ha enviado el enlace y la explicación de en qué consiste el proyecto. 
 
 Reconocimientos
