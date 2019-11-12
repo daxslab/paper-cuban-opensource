@@ -6,7 +6,7 @@ fontsize: 12pt
 colorlinks: true
 ---
 
-# Cuban Opensource como plataforma para la divulgación del software de código abierto echo en Cuba
+# Cuban Opensource como plataforma para la divulgación del software de código abierto hecho en Cuba
 
 Temática
 --------
@@ -35,7 +35,7 @@ En el 2013 ya se había tenido una experiencia similar con el anuncio de REPOGUT
 
 > “_una alternativa «tropical» (el mayor crimen es cruzarse de brazos y no hacer nada) al tan ansiado «sourceforge cubano», aquí los desarrolladores tendrán la oportunidad de dar a conocer sus creaciones, retroalimentarse y, lo definitorio: contribuir con soluciones a los problemas que la migración y el uso del swl impone a los usuarios cubanos_”.
 
-En julio del 2014, REPOGUTL contaba con más de 70 productos compartidos [2] y más información sobre este proyecto se puede consultar en el portal GUTL [3] con más de 24 publicaciones relacionadas. En determinado momento, REPOGUTL dejó de ser alojado en el servidor provincial de Joven Club de Granma y finalmente, en octubre de 2019 se decidió eliminar las copias que quedaban alojadas, debido a que el contenido consitía en paquetes binarios sin la presencia del código fuente.
+En julio del 2014, REPOGUTL contaba con más de 70 productos compartidos [2] y más información sobre este proyecto se puede consultar en el portal GUTL [3] con más de 24 publicaciones relacionadas. En determinado momento, REPOGUTL dejó de ser alojado en el servidor provincial de Joven Club de Granma y finalmente, en octubre de 2019 se decidió eliminar las copias que quedaban alojadas, debido a que el contenido consistía en paquetes binarios sin la presencia del código fuente.
 
 Guiados por el interés de saber quién está desarrollando qué en Cuba, se comenzó a trabajar en la compilación de la lista de software cubano de código abierto.  
 
@@ -121,8 +121,8 @@ Conclusiones
 
 - Se cuenta con un espacio donde listar los proyectos de código abierto desarrollados en Cuba siendo este un proyecto en constante actualización.
 - Los proyectos están obteniendo mayor visibilidad.
-- Se están creados vínculos entre desarrolladores cubanos que antes no se conocían.
-- No se cuenta aún con proyectos de ninguna institución  estatal en la lista, sólo de iniciativas personales o surgidas de la actividad comercial de sus autores.
+- Se están creando vínculos entre desarrolladores de software cubanos que antes no se conocían.
+- No se cuenta aún con proyectos de ninguna institución  estatal en la lista, sólo iniciativas personales o surgidas de la actividad comercial de sus autores.
 - Salvo contadas excepciones, las instituciones cubanas invitadas a difundir/compartir este proyecto no lo han hecho a pesar de que se les ha enviado el enlace y la explicación de en qué consiste el proyecto. 
 
 Reconocimientos
@@ -131,7 +131,7 @@ Reconocimientos
 Es necesario reconocer el trabajo de las personas u organizaciones propietarias de las siguientes cuentas en Github que:
 
  - han contribuido con proyectos a la lista
- - han contribuido con el mantenimiento de la misma.
+ - han contribuido con el mantenimiento de la misma
  
 aleguerra, alejandrojnm, andaniel05, apenab, ateijelo, atscub, cjamcu, codeadict, codeshard daxslab, edelvalle, etorres, fperdigon, garciaguimeras, greenled, ivangalban, jadolg, JimScope, jmbatistav, JoseVL92, ktowen, leolopez89, llamaret, lorinkoz, n3omaster, n44ru, Nenirey, nx-desktop, oneohthree, pavelmc, PhaserEditor2D, rafageist, rlazom, rogertm, sasousuke, videomorph-dev, williamamed, yceruto.
 
