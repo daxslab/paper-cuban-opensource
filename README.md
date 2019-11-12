@@ -108,27 +108,27 @@ Luego de 5 meses de trabajo, la lista ha crecido y en noviembre del 2019 se tien
 
 Materiales y métodos
 --------------------
-Github es la plataforma seleccionada para mantener el proyecto debido a ser una de las más populares en la actualidad y el repositorio defecto para algunos gestores de bibliotecas (Packagist para PHP, por ejemplo). La Github API es el mecanismo utilizado para obtener información sobre los proyectos y los desarrolladores de los mismos para luego poder generar información estadística. [9]
+Github es la plataforma seleccionada para mantener el proyecto ya que es una de las más populares en la actualidad y el repositorio por defecto para algunos gestores de bibliotecas (Packagist para PHP, por ejemplo). La API de GitHub es el mecanismo utilizado para obtener información sobre los proyectos y los desarrolladores de los mismos para luego poder generar información estadística. [9]
 
-Web scrapping es el procedimiento mediante el cual es posible obtener información desde distintos lugares en Internet utilizando herramientas que hacen colectan los datos con los cuales se generara la información. En estos proyectos de catalogación es necesario desarrollar scrappers para encontrar información dispersa de forma rápida y automatizada, ahorrando tiempo y trabajo humano. [10]
+Web scrapping es el procedimiento mediante el cual, es posible obtener información desde distintos lugares en Internet,  utilizando herramientas que coleccionan los datos con los cuales se generara la información. En estos proyectos de catalogación es necesario desarrollar scrappers para encontrar información dispersa de forma rápida y automatizada, ahorrando tiempo y trabajo humano. [10]
 
-Las awesome lists son listas que los usuarios crean con nombre, enlaces y descripciones de recursos alojandos en internet y que tienen elementos en común, por ejemplo, tratar del mismo tema. Es muy común entonces encontrar el “X’s Awesome List“ como una documento donde se listarán un conjunto de enlaces categorizados de recusos relacionados con X: libros, videos, extensiones, etc. [11]
+Las _awesome lists_ son listas que los usuarios crean con nombres, enlaces y descripciones de recursos alojados en Internet y que tienen elementos en común, por ejemplo, tratar del mismo tema. Es muy común entonces encontrar el “X’s Awesome List“ como un documento donde se listarán un conjunto de enlaces categorizados de recusos relacionados con X: libros, videos, extensiones, etc. [11]
 
-Markdown es un lenguaje de marcado ligero que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano. De esta forma es posible crear un documento legible por humanos y que la vez puede ser procesado para generar un documento HTML. [12]
+Markdown es un lenguaje de marcado ligero que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano. De esta forma, es posible crear un documento legible por humanos y que la vez puede ser procesado para generar un documento HTML. [12]
 
 Conclusiones
 ------------
 
-- Se cuenta con un espacio donde listar los proyectos de código abierto desarrollados en Cuba siendo este un proyecto en constante actualización.
+- Se cuenta con un espacio donde se pueden listar (en constante actualización) los proyectos de código abierto desarrollados en Cuba.
 - Los proyectos están obteniendo mayor visibilidad.
 - Se están creando vínculos entre desarrolladores de software cubanos que antes no se conocían.
-- No se cuenta aún con proyectos de ninguna institución  estatal en la lista, sólo iniciativas personales o surgidas de la actividad comercial de sus autores.
+- No se cuenta aún con proyectos de ninguna institución estatal en la lista, sólo iniciativas personales o surgidas de la actividad comercial de sus autores.
 - Salvo contadas excepciones, las instituciones cubanas invitadas a difundir/compartir este proyecto no lo han hecho a pesar de que se les ha enviado el enlace y la explicación de en qué consiste el proyecto. 
 
 Reconocimientos
 ---------------
 
-Es necesario reconocer el trabajo de las personas u organizaciones propietarias de las siguientes cuentas en Github que:
+Es necesario reconocer el trabajo de las personas u organizaciones propietarias de las siguientes cuentas en GitHub que:
 
  - han contribuido con proyectos a la lista
  - han contribuido con el mantenimiento de la misma
