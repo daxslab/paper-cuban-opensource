@@ -89,3 +89,19 @@ Es necesario reconocer el trabajo de las personas u organizaciones propietarias 
 aleguerra, alejandrojnm, andaniel05, apenab, ateijelo, atscub, cjamcu, codeadict, codeshard daxslab, edelvalle, etorres, fperdigon, garciaguimeras, greenled, ivangalban, jadolg, JimScope, jmbatistav, JoseVL92, ktowen, leolopez89, llamaret, lorinkoz, n3omaster, n44ru, Nenirey, nx-desktop, oneohthree, pavelmc, PhaserEditor2D, rafageist, rlazom, rogertm, sasousuke, videomorph-dev, williamamed, yceruto.
 
 A @grroic y @cccaballero que ayudaron en SWL-X con el scrapping.
+
+Referencias
+-----------
+
+- [1]	“REPOGUTL: compartiendo aplicaciones. | GUTL.” [Online]. Available: https://gutl.jovenclub.cu/repogutl-compartiendo-aplicaciones/. [Accessed: 11-Nov-2019].
+- [2]	“[Gutl-l] REPOGUTL. Un repositorio de aplicaciones y productos cubanos.” [Online]. Available: https://www.mail-archive.com/gutl-l@listas.jovenclub.cu/msg32976.html. [Accessed: 11-Nov-2019].
+- [3]	“REPOGUTL | GUTL.” [Online]. Available: https://gutl.jovenclub.cu/etiqueta/repogutl/. [Accessed: 11-Nov-2019].
+- [4]	“Carlos C. Caballero on Twitter: ‘@AnielH1 @glpzzz @elavdeveloper @universidad_uci Si se publicara un listado de proyectos (como hacen otras distribuciones) entonces esos a los que reclamas podrían hacer algo, la mayoría de los que han escrito en este hilo contribuyen activamente a proyectos FLOSS, si no lo hacen con Nova es porque algo estarán haciendo mal’ / Twitter,” Twitter. [Online]. Available: https://twitter.com/ccesarcaball/status/1139862052904656897. [Accessed: 11-Nov-2019].
+- [5]	G. López, “@glpzzz on https://t.me/blogswlx,” 15-Jun-2019.
+- [6]	G. Lopez, “@glpzzz on https://t.me/blogswlx,” 17-Jun-2019.
+- [7]	“Gabriel A. López on Twitter: ‘Dice @github que hay 804 desarrolladores cubanos allí. Veamos si podemos unirlos a https://t.co/hQc8GBmSpN https://t.co/4AMUbNFvkc’ / Twitter,” Twitter. [Online]. Available: https://twitter.com/glpzzz/status/1141547004998356994. [Accessed: 11-Nov-2019].
+- [8]	cuban-opensourcers/cuban-opensource. Cuban Opensourcers, 2019.
+- [9]	“GitHub API v3,” GitHub Developer. [Online]. Available: https://developer.github.com/v3/. [Accessed: 11-Nov-2019].
+- [10]	G. Boeing and P. Waddell, “New Insights into Rental Housing Markets across the United States: Web Scraping and Analyzing Craigslist Rental Listings,” Journal of Planning Education and Research, vol. 37, no. 4, pp. 457–476, Dec. 2017.
+- [11]	S. Sorhus, sindresorhus/awesome. 2019.
+- [12]	J. Voegler, J. Bornschein, and G. Weber, “Markdown – A Simple Syntax for Transcription of Accessible Study Materials,” in Computers Helping People with Special Needs, Cham, 2014, pp. 545–548.
