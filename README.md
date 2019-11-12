@@ -8,7 +8,7 @@ colorlinks: true
 
 # Cuban Opensource como plataforma para la divulgación del software de código abierto hecho en Cuba
 
-<center style="font-weight: bold">López L. Gabriel<sup>1</sup>, Caballero L. Carlos<sup>2</sup>, Rodríguez C. Daniel<sup>3</sup></center>
+<center style="font-weight: bold">Gabriel A. López López<sup>1</sup>, Carlos C. Caballero Diaz<sup>2</sup>, Daniel A. Rodríguez Caballero<sup>3</sup></center>
 
 <center>
 <small>
