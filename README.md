@@ -56,8 +56,8 @@ Guiados por el interés de saber quién está desarrollando qué en Cuba, se com
 
 Tomando como referencia las _awesome lists_, y constituyendo estas un recurso de fácil acceso y modificación, populares, e incluso divertidas; se decidió crear la lista utilizando el mismo formato: un fichero texto Markdown. Esta elección además ofrece otras ventajas:
 
-- no son necesarios recursos adicionales para su mantenimiento ya que está alojada en un servidor de terceros.
-- los proyectos están también alojados en otros servidores evitando toda carga para el proyecto. 
+- No son necesarios recursos adicionales para su mantenimiento ya que está alojada en un servidor de terceros.
+- Los proyectos están también alojados en otros servidores evitando toda carga para el proyecto. 
 
 La lista comenzó como un proyecto personal a partir de unos comentarios en Twitter [4] al respecto, partiendo de proyectos propios (de los autores) y otros que conocían habían sido desarrollado por colegas cubanos. Cuando la lista había alcanzado aproximadamente los 10 proyectos, se presentó el proyecto [5] en dos grupos de usuarios de tecnologías libres en Telegram https://t.me/blogswlx y https://t.me/GUTLOficial cuyos usuarios en su gran mayoría son cubanos. 
 
@@ -108,9 +108,9 @@ Con estas direcciones de correo se elaboró otro script utlizando la biblioteca 
 
 Muchos de estos mensajes de correo rebotaron debido a que correspondían a ex alumnos de algunas universidades (UCI, UCLV, UO, UCF, UPR) o a ex trabajadores de entidades cubanas. Sin embargo, comenzaron a llegar las respuestas de personas que:
 
-- tenían proyectos propios para compartir
-- conocían de personas que podían tenerlos y pasaron la referencia
-- compartieron la lista a través de sus medios.
+- Tenían proyectos propios para compartir.
+- Conocían de personas que podían tenerlos y pasaron la referencia.
+- Compartieron la lista a través de sus medios.
 
 Luego de 5 meses de trabajo, la lista ha crecido y en noviembre del 2019 se tienen los siguientes resultados [8]:
 
@@ -145,8 +145,8 @@ Reconocimientos
 
 Es necesario reconocer el trabajo de las personas u organizaciones propietarias de las siguientes cuentas en GitHub que:
 
- - han contribuido con proyectos a la lista
- - han contribuido con el mantenimiento de la misma
+ - Han contribuido con proyectos a la lista.
+ - Han contribuido con el mantenimiento de la misma.
  
 [aleguerra](https://github.com/aleguerra), [alejandrojnm](https://github.com/alejandrojnm), [andaniel05](https://github.com/andaniel05), [apenab](https://github.com/apenab), [ateijelo](https://github.com/ateijelo), [atscub](https://github.com/atscub), [cjamcu](https://github.com/cjamcu), [codeadict](https://github.com/codeadict), [codeshard](https://github.com/codeshard), [daxslab](https://github.com/daxslab), [edelvalle](https://github.com/edelvalle), [etorres](https://github.com/etorres), [fperdigon](https://github.com/fperdigon), [garciaguimeras](https://github.com/garciaguimeras), [greenled](https://github.com/greenled), [ivangalban](https://github.com/ivangalban), [jadolg](https://github.com/jadolg), [JimScope](https://github.com/JimScope), [jmbatistav](https://github.com/jmbatistav), [JoseVL92](https://github.com/JoseVL92), [ktowen](https://github.com/ktowen), [leolopez89](https://github.com/leolopez89), [llamaret](https://github.com/llamaret), [lorinkoz](https://github.com/lorinkoz), [n3omaster](https://github.com/n3omaster), [n44ru](https://github.com/n44ru), [Nenirey](https://github.com/Nenirey), [nx-desktop](https://github.com/nx-desktop), [oneohthree](https://github.com/oneohthree), [pavelmc](https://github.com/pavelmc), [PhaserEditor2D](https://github.com/PhaserEditor2D), [rafageist](https://github.com/rafageist), [rlazom](https://github.com/rlazom), [rogertm](https://github.com/rogertm), [sasousuke](https://github.com/sasousuke), [videomorph-dev](https://github.com/videomorph-dev), [williamamed](https://github.com/williamamed), [yceruto](https://github.com/yceruto).
 
