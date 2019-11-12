@@ -13,7 +13,7 @@ colorlinks: true
 
 # Cuban Opensource como plataforma para la divulgación del software de código abierto hecho en Cuba
 
-<center style="font-weight: bold">Gabriel A. López López<sup>1</sup>, Carlos C. Caballero Diaz<sup>2</sup>, Daniel A. Rodríguez Caballero<sup>3</sup></center>
+<center style="font-weight: bold">Gabriel A. López López <sup>1</sup>, Carlos C. Caballero Diaz <sup>2</sup>, Daniel A. Rodríguez Caballero <sup>3</sup></center>
 
 <center>
 <small>
@@ -29,7 +29,7 @@ El desarrollo de aplicaciones y la provisión de servicios basados en Código Ab
 
 Resumen
 -------
-Cuban Opensource es una lista  de proyectos de código abierto recolectada mediante los aportes de la comunidad que se ha ido creado mediante el boca a boca y el trabajo de comunicación via correo electrónico con direcciones obtenidas mediante el scrapping de diversos sitios repositorios de software de código abierto. El objetivo es poder conocer quién está desarrollando qué en Cuba así como de unir a la agrupar a los desarrolladores cubanos en un espacio común. La lista está alojada en https://github.com/cuban-opensourcers/cuban-opensource. 
+Cuban Opensource es una lista  de proyectos de código abierto recolectada mediante los aportes de la comunidad que se ha ido difundiendo mediante el boca a boca y el trabajo de comunicación via correo electrónico con direcciones obtenidas mediante el scrapping de diversos sitios repositorios de software de código abierto. El objetivo es poder conocer quién está desarrollando qué en Cuba así como de unir a los desarrolladores cubanos en un espacio común. La lista está alojada en https://github.com/cuban-opensourcers/cuban-opensource. 
 
 **Palabras claves:** lista, cuba, código abierto, desarrolladores, Github
 
@@ -61,7 +61,7 @@ Tomando como referencia las _awesome lists_, y constituyendo estas un recurso de
 
 La lista comenzó como un proyecto personal a partir de unos comentarios en Twitter [4] al respecto, partiendo de proyectos propios (de los autores) y otros que conocían habían sido desarrollado por colegas cubanos. Cuando la lista había alcanzado aproximadamente los 10 proyectos, se presentó el proyecto [5] en dos grupos de usuarios de tecnologías libres en Telegram https://t.me/blogswlx y https://t.me/GUTLOficial cuyos usuarios en su gran mayoría son cubanos. 
 
-El proyecto tuvo buena acogida, por lo que se dedidió transformarlo en un proyecto comunitario [6] en GitHub bajo la organización Cuban Opensourcers (https://github.com/cuban-opensourcers) con lo cual se creaba un espacio más colectivo para poder mantener la lista. Para integrarse a la organización el requisito (salvo algunas excepciones) es haber compartido algún proyecto.
+El proyecto tuvo buena acogida, por lo que se decidió transformarlo en un proyecto comunitario [6] en GitHub bajo la organización Cuban Opensourcers (https://github.com/cuban-opensourcers) con lo cual se creaba un espacio más colectivo para poder mantener la lista. Para integrarse a la organización el requisito (salvo algunas excepciones) es haber compartido algún proyecto.
 
 Para darle una representación gráfica al proyecto se creó el logotipo mostrado en la Figura 1 consistente en el símbolo del código abierto decorado con la bandera cubana, sobre una trama de texto formado por la repetición de la palabra “opensource”.
 
@@ -71,7 +71,7 @@ La lista se redacta en idioma inglés por ser el idioma más común en los ambie
 
 Se hizo necesario entonces dar a conocer la existencia de este recurso entre los potenciales interesados: desarrolladores de software cubanos. Una de las soluciones que surgió en el grupo fue la de recolectar direcciones de correo electrónico públicas de desarrolladores, para lo cual se acudió al propio GitHub con este fin.
 
-No todos lo hacen, pero algunos desarrolladores completan el campo ubicación de su perfil [7], y los que tenían el valor Cuba en el mismo, fueron encontrados por medio del script que se muestra a continuación. Como resultado se recolectaron más de 300 direcciones de correo electrónico. 
+No todos lo hacen, pero algunos desarrolladores completan el campo ubicación de su perfil [7], y los que tenían el valor Cuba en el mismo, fueron encontrados por medio del script que se muestra a continuación. Como resultado de este trabajo se encontraron 804 cubanos en Github y más de 300 de ellos con direcciones de correo electrónico públicas. 
 
 ```python
 #!/usr/bin/python3
@@ -106,7 +106,7 @@ Con estas direcciones de correo se elaboró otro script utlizando la biblioteca 
 > 
 > Agradecemos su colaboración.
 
-Muchos de estos mensajes de correo rebotaron debido a que correspondían a ex alumnos de algunas universidades (UCI, UCLV, UO, UCF, UPR) o a ex trabajadores de entidades cubanas. Sin embargo, comenzaron a llegar las respuestas de personas que:
+Muchos de estos mensajes de correo rebotaron debido a que correspondían a ex alumnos de universidades o ex trabajadores de entidades cubanas. Sin embargo, comenzaron a llegar las respuestas de personas que:
 
 - Tenían proyectos propios para compartir.
 - Conocían de personas que podían tenerlos y pasaron la referencia.
@@ -117,7 +117,7 @@ Luego de 5 meses de trabajo, la lista ha crecido y en noviembre del 2019 se tien
 - Proyectos listados: 99
 - Categorías principales: 18
 - Subcategorías: 13
-- Colaboradores: 37 (algunas cuentas son de organizaciones que agrupan a varias personas)
+- Colaboradores: 37+ (algunas cuentas son de organizaciones que agrupan a varias personas)
 
 ![Cantidad de proyectos por categoría](por-categoria.png)
 
@@ -125,9 +125,9 @@ Materiales y métodos
 --------------------
 Github es la plataforma seleccionada para mantener el proyecto ya que es una de las más populares en la actualidad y el repositorio por defecto para algunos gestores de bibliotecas (Packagist para PHP, por ejemplo). La API de GitHub es el mecanismo utilizado para obtener información sobre los proyectos y los desarrolladores de los mismos para luego poder generar información estadística. [9]
 
-Web scrapping es el procedimiento mediante el cual, es posible obtener información desde distintos lugares en Internet, utilizando herramientas que coleccionan los datos con los cuales se generara la información. En estos proyectos de catalogación es necesario desarrollar scrappers para encontrar información dispersa de forma rápida y automatizada, ahorrando tiempo y trabajo humano. [10]
+Web scraping es el procedimiento mediante el cual, es posible obtener información desde distintos lugares en Internet, utilizando herramientas que coleccionan los datos con los cuales se generara la información. En estos proyectos de catalogación es necesario desarrollar este tipo de soluciones para encontrar información dispersa de forma rápida y automatizada, ahorrando tiempo y trabajo humano. [10]
 
-Las _awesome lists_ son listas que los usuarios crean con nombres, enlaces y descripciones de recursos alojados en Internet y que tienen elementos en común, por ejemplo, tratar del mismo tema. Es muy común entonces encontrar el “X’s Awesome List“ como un documento donde se listarán un conjunto de enlaces categorizados de recusos relacionados con X: libros, videos, extensiones, etc. [11]
+Las _awesome lists_ son listas que los usuarios crean con nombres, enlaces y descripciones de recursos alojados en Internet y que tienen elementos en común, por ejemplo, tratar del mismo tema. Es frecuente encontrar el “X’s Awesome List“ como un documento donde se listarán un conjunto de enlaces categorizados de recursos relacionados con X: libros, videos, extensiones, etc. [11]
 
 Markdown es un lenguaje de marcado ligero que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano. De esta forma, es posible crear un documento legible por humanos y que la vez puede ser procesado para generar un documento HTML. [12]
 
@@ -150,7 +150,7 @@ Es necesario reconocer el trabajo de las personas u organizaciones propietarias 
  
 [aleguerra](https://github.com/aleguerra), [alejandrojnm](https://github.com/alejandrojnm), [andaniel05](https://github.com/andaniel05), [apenab](https://github.com/apenab), [ateijelo](https://github.com/ateijelo), [atscub](https://github.com/atscub), [cjamcu](https://github.com/cjamcu), [codeadict](https://github.com/codeadict), [codeshard](https://github.com/codeshard), [daxslab](https://github.com/daxslab), [edelvalle](https://github.com/edelvalle), [etorres](https://github.com/etorres), [fperdigon](https://github.com/fperdigon), [garciaguimeras](https://github.com/garciaguimeras), [greenled](https://github.com/greenled), [ivangalban](https://github.com/ivangalban), [jadolg](https://github.com/jadolg), [JimScope](https://github.com/JimScope), [jmbatistav](https://github.com/jmbatistav), [JoseVL92](https://github.com/JoseVL92), [ktowen](https://github.com/ktowen), [leolopez89](https://github.com/leolopez89), [llamaret](https://github.com/llamaret), [lorinkoz](https://github.com/lorinkoz), [n3omaster](https://github.com/n3omaster), [n44ru](https://github.com/n44ru), [Nenirey](https://github.com/Nenirey), [nx-desktop](https://github.com/nx-desktop), [oneohthree](https://github.com/oneohthree), [pavelmc](https://github.com/pavelmc), [PhaserEditor2D](https://github.com/PhaserEditor2D), [rafageist](https://github.com/rafageist), [rlazom](https://github.com/rlazom), [rogertm](https://github.com/rogertm), [sasousuke](https://github.com/sasousuke), [videomorph-dev](https://github.com/videomorph-dev), [williamamed](https://github.com/williamamed), [yceruto](https://github.com/yceruto).
 
-A [grroic](https://t.me/grroic) y [cccaballero](https://t.me/cccaballero) que ayudaron en [SWL-X](https://blogswlx) con el scrapping. [oneohthree](https://t.me/oneohthree) ayudó con la edición del artículo, a llevarlo a texto plano y también hacerlo open source en https://github.com/daxslab/paper-cuban-opensource
+A [grroic](https://t.me/grroic) y [cccaballero](https://t.me/cccaballero) que ayudaron en [SWL-X](https://blogswlx) con el scraping. [oneohthree](https://t.me/oneohthree) ayudó con la edición del artículo, a llevarlo a texto plano y también hacerlo open source en https://github.com/daxslab/paper-cuban-opensource
 
 Referencias
 -----------
