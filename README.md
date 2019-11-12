@@ -67,13 +67,13 @@ for u in g.search_users('', location='cuba'):
         print (u.email)
 ```
 
-Con estas direcciones de correo se elaboró otro script utlizando la biblioteoca [mailproc](https://github.com/daxslab/mailproc) para enviar masivamente el siguiente correo:
+Con estas direcciones de correo se elaboró otro script utlizando la biblioteca [mailproc](https://github.com/daxslab/mailproc) para enviar masivamente el siguiente correo:
 
 > Hola!
 > 
 > https://github.com/cuban-opensourcers/cuban-opensource
 > 
-> Utilizamos su dirección de correo pública en Github para contactarle e invitarle a un proyecto reciente y de rápido crecimiento: una lista de proyectos de código abierto echos en Cuba o por cubanos.
+> Utilizamos su dirección de correo pública en Github para contactarle e invitarle a un proyecto reciente y de rápido crecimiento: una lista de proyectos de código abierto hechos en Cuba o por cubanos.
 >
 > Si usted tiene o conoce de algún proyecto que califique en la descripción anterior, háganos saber de las siguientes maneras:
 >
@@ -131,7 +131,7 @@ Es necesario reconocer el trabajo de las personas u organizaciones propietarias 
  
 aleguerra, alejandrojnm, andaniel05, apenab, ateijelo, atscub, cjamcu, codeadict, codeshard daxslab, edelvalle, etorres, fperdigon, garciaguimeras, greenled, ivangalban, jadolg, JimScope, jmbatistav, JoseVL92, ktowen, leolopez89, llamaret, lorinkoz, n3omaster, n44ru, Nenirey, nx-desktop, oneohthree, pavelmc, PhaserEditor2D, rafageist, rlazom, rogertm, sasousuke, videomorph-dev, williamamed, yceruto.
 
-A @grroic y @cccaballero que ayudaron en SWL-X con el scrapping.
+A [@grroic](https://t.me/grroic) y [@cccaballero](https://t.me/cccaballero) que ayudaron en [SWL-X](https://blogswlx) con el scrapping. [@oneohthree](https://t.me/oneohthree) ayudó con la edición del artículo.
 
 Referencias
 -----------
