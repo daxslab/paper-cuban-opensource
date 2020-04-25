@@ -113,10 +113,10 @@ Muchos de estos mensajes de correo rebotaron debido a que correspondían a ex al
 
 Luego de 5 meses de trabajo, la lista ha crecido y en noviembre del 2019 se tienen los siguientes resultados [8]:
 
-- Proyectos listados: 99
+- Proyectos listados: 146
 - Categorías principales: 18
 - Subcategorías: 13
-- Colaboradores: 37+ (algunas cuentas son de organizaciones que agrupan a varias personas)
+- Colaboradores: 40+ (algunas cuentas son de organizaciones que agrupan a varias personas)
 
 ![Cantidad de proyectos por categoría](por-categoria.png)
 
